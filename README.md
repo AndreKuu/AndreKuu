@@ -19,7 +19,6 @@ Anything about web framework, kubernetes, database, task scheduling system, etc.
 📫 My email: qiuhanwen.andre@gmail.com
 
 ✨ Let's code ! ✨
-[![AndreKuu's github stats](https://github-readme-stats.vercel.app/api?username=AndreKuu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AndreKuu/AndreKuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
