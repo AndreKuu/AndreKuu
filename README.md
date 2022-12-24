@@ -1,4 +1,25 @@
 ### Hi there 👋
+This is AndreKuu.
+
+Coding is interesting ~ 
+
+Coding scope:
+- Web application [frontend & backend]
+- Scheduling system
+
+Code Language:
+- Rust
+- Python
+- Typescript
+- Golang
+- C++
+
+Anything about web framework, kubernetes, database, task scheduling system, etc. Discuss with me 💬 ~ Enthusiastic in making friends.
+
+📫 My email: qiuhanwen.andre@gmail.com
+
+✨ Let's code ! ✨
+[![AndreKuu's github stats](https://github-readme-stats.vercel.app/api?username=AndreKuu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AndreKuu/AndreKuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
