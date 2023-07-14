@@ -1,8 +1,6 @@
 ### Hi there 👋
 This is AndreKuu.
 
-Coding is interesting ~ 
-
 Coding scope:
 - Web application [frontend & backend]
 - Scheduling system
